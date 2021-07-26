@@ -1,9 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  interval: MyText
-  meet: one
+  meeting_room: MyText
+  start: MyString
+  end: MyString
+  meeting_date: 2021-06-29
 
 two:
-  interval: MyText
-  meet: two
+  meeting_room: MyText
+  start: MyString
+  end: MyString
+  meeting_date: 2021-06-29
